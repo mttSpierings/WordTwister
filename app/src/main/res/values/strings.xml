@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Text Twister</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Activity_title">Text Reverser!</string>
+    <string name="output">Output</string>
+    <string name="text_here">Input text here</string>
+    <string name="reverse">Reverse!</string>
+    <string name="remove_spaces">Remove Spaces</string>
+</resources>
